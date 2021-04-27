@@ -119,7 +119,7 @@ Bot sensitif terhadap simbol / spasi / huruf kecil / huruf besar jadi, bot tidak
 
 Bot ini open source loh! kakak bisa cek di https://github.com/salismazaya/whatsapp-bot (jika ingin mengedit mohon untuk tidak hilangankan link ini)
 
-apa? mau traktir aku? boleh banget https://saweria.co/salismazaya`.replace("(jika ingin mengedit mohon untuk tidak hilangankan link ini)", "");
+*Bot by Wildansarashina*`.replace("(jika ingin mengedit mohon untuk tidak hilangankan link ini)", "");
 
 			conn.sendMessage(senderNumber, text, MessageType.text, { quoted: message });
 			break;
@@ -128,10 +128,8 @@ apa? mau traktir aku? boleh banget https://saweria.co/salismazaya`.replace("(jik
 		case "!contact":
 		{
 			const text = `Hubungi saya di
-
-- Facebook: fb.me/salismazaya
-- Telegram: t.me/salismiftah
-- Email: salismazaya@gmail.com`;
+			
+- WA: *wa.me/81386615459*`;
 			conn.sendMessage(senderNumber, text, MessageType.text, { quoted: message });
 			break;
 		}
@@ -372,3 +370,9 @@ apa? mau traktir aku? boleh banget https://saweria.co/salismazaya`.replace("(jik
 
 	}
 }
+			
+		
+				
+
+			
+			
